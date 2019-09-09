@@ -14,7 +14,7 @@ public class Demo1ApplicationTests {
 	@Test
 	public void contextLoads() {
 		String a ="abc";
-		
+		System.out.println(a);
 	}
 
 }
